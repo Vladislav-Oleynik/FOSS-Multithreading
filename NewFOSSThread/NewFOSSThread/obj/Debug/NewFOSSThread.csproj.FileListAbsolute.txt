@@ -1,0 +1,10 @@
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\bin\Debug\NewFOSSThread.exe.config
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\bin\Debug\NewFOSSThread.exe
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\bin\Debug\NewFOSSThread.pdb
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.csprojAssemblyReference.cache
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.Form1.resources
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.Properties.Resources.resources
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.csproj.GenerateResource.cache
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.csproj.CoreCompileInputs.cache
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.exe
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\NewFOSSThread\NewFOSSThread\obj\Debug\NewFOSSThread.pdb
